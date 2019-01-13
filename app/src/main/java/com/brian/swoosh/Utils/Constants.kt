@@ -1,3 +1,3 @@
-package com.brian.swoosh
+package com.brian.swoosh.Utils
 
 const val EXTRA_LEAGUE = "League"

@@ -1,8 +1,9 @@
-package com.brian.swoosh
+package com.brian.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.brian.swoosh.R
 
 open class BaseActivity : AppCompatActivity() {
     val TAG = "LifeCycle"

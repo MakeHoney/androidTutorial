@@ -1,7 +1,9 @@
-package com.brian.swoosh
+package com.brian.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.brian.swoosh.Utils.EXTRA_LEAGUE
+import com.brian.swoosh.R
 
 class SkillActivity : AppCompatActivity() {
     var league = ""
